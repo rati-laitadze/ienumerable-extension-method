@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\bin\Debug\netcoreapp3.1\No Sense Task.exe
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\bin\Debug\netcoreapp3.1\No Sense Task.deps.json
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\bin\Debug\netcoreapp3.1\No Sense Task.runtimeconfig.json
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\bin\Debug\netcoreapp3.1\No Sense Task.runtimeconfig.dev.json
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\bin\Debug\netcoreapp3.1\No Sense Task.dll
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\bin\Debug\netcoreapp3.1\No Sense Task.pdb
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\obj\Debug\netcoreapp3.1\No Sense Task.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\obj\Debug\netcoreapp3.1\No Sense Task.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\obj\Debug\netcoreapp3.1\No Sense Task.AssemblyInfo.cs
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\obj\Debug\netcoreapp3.1\No Sense Task.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\obj\Debug\netcoreapp3.1\No Sense Task.dll
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\obj\Debug\netcoreapp3.1\No Sense Task.pdb
+C:\Users\admin\Desktop\No Sense Task\No Sense Task\obj\Debug\netcoreapp3.1\No Sense Task.genruntimeconfig.cache
